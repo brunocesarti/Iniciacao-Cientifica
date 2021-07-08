@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/avl/\303\201rea de Trabalho/TCC-IC/teste3/dlc-ic-teste3-olamundoteste3-2021-01-05/dlc-models/iteration-0/dlc-ic-teste3jan5-trainset95shuffle1/train/snapshot-200"
+all_model_checkpoint_paths: "/home/avl/\303\201rea de Trabalho/TCC-IC/teste3/dlc-ic-teste3-olamundoteste3-2021-01-05/dlc-models/iteration-0/dlc-ic-teste3jan5-trainset95shuffle1/train/snapshot-50"
+all_model_checkpoint_paths: "/home/avl/\303\201rea de Trabalho/TCC-IC/teste3/dlc-ic-teste3-olamundoteste3-2021-01-05/dlc-models/iteration-0/dlc-ic-teste3jan5-trainset95shuffle1/train/snapshot-100"
+all_model_checkpoint_paths: "/home/avl/\303\201rea de Trabalho/TCC-IC/teste3/dlc-ic-teste3-olamundoteste3-2021-01-05/dlc-models/iteration-0/dlc-ic-teste3jan5-trainset95shuffle1/train/snapshot-150"
+all_model_checkpoint_paths: "/home/avl/\303\201rea de Trabalho/TCC-IC/teste3/dlc-ic-teste3-olamundoteste3-2021-01-05/dlc-models/iteration-0/dlc-ic-teste3jan5-trainset95shuffle1/train/snapshot-200"
