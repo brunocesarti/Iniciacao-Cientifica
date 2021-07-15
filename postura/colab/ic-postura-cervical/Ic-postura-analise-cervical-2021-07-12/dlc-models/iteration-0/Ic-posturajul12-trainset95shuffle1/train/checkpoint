@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/drive/My Drive/ic-postura-cervical/Ic-postura-analise-cervical-2021-07-12/dlc-models/iteration-0/Ic-posturajul12-trainset95shuffle1/train/snapshot-186500"
+all_model_checkpoint_paths: "/content/drive/My Drive/ic-postura-cervical/Ic-postura-analise-cervical-2021-07-12/dlc-models/iteration-0/Ic-posturajul12-trainset95shuffle1/train/snapshot-184500"
+all_model_checkpoint_paths: "/content/drive/My Drive/ic-postura-cervical/Ic-postura-analise-cervical-2021-07-12/dlc-models/iteration-0/Ic-posturajul12-trainset95shuffle1/train/snapshot-185000"
+all_model_checkpoint_paths: "/content/drive/My Drive/ic-postura-cervical/Ic-postura-analise-cervical-2021-07-12/dlc-models/iteration-0/Ic-posturajul12-trainset95shuffle1/train/snapshot-185500"
+all_model_checkpoint_paths: "/content/drive/My Drive/ic-postura-cervical/Ic-postura-analise-cervical-2021-07-12/dlc-models/iteration-0/Ic-posturajul12-trainset95shuffle1/train/snapshot-186000"
+all_model_checkpoint_paths: "/content/drive/My Drive/ic-postura-cervical/Ic-postura-analise-cervical-2021-07-12/dlc-models/iteration-0/Ic-posturajul12-trainset95shuffle1/train/snapshot-186500"
