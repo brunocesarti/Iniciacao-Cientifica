@@ -1,8 +1,12 @@
 # Iniciação Científica
 
-# Extração e Classificação de Movimentos Motores: Uma Abordagem Usando Deep Learning
+# Extração e classificação de movimentos motores: Uma abordagem utilizando aprendizagem de máquina profunda
 
 ## Temos como objetivo neste trabalho, desenvolver um estudo para mapeamento da postura da coluna de dos seres humanos baseados na tecnologia de inteligência artificial utilizando a ferramenta proposta por [Mathis](https://www.nature.com/articles/s41593-018-0209-y). Desta forma, utilizando o [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) poderemos inferir dados sobre a característica de posicionamento geográfico de qualquer objeto em estudo, de uma forma não invasiva, evitando inclusive influenciar nos resultados. Esperando ao fim deste trabalho poder gerar uma aplicação para obtenção da postura da coluna de um ser humano.
+
+[Apresentação do projeto no  XXIX Seminário de Iniciação Científica:](https://youtu.be/c-_Khguj6xo)
+
+[![Apresentação do projeto no  XXIX Seminário de Iniciação Científica](https://user-images.githubusercontent.com/12937320/132610941-ba253596-5ed9-4f69-9531-0690dc0d26fb.jpeg)](https://youtu.be/c-_Khguj6xo)
 
 
 Link para documentação em Wiki: https://github.com/brunocesarti/Iniciacao-Cientifica/wiki
